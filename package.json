@@ -1,0 +1,14 @@
+{
+  "name": "drum_kit_js",
+  "version": "1.0.0",
+  "description": "A simple project made to demonstrate the functionalities of Vanilla Js",
+  "main": "index.js",
+  "scripts": {
+    "drum": "http-server -a localhost -p 8000 -c-1"
+  },
+  "author": "Alfredo Paes",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
