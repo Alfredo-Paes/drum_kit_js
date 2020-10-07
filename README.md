@@ -10,13 +10,6 @@ Uma aplicação que simula o tocar de uma Bateria.
   - [Instalação](#instalação)
   - [Inspiração](#inspiração)
   - [Referências](#referências)
-        - [JavaScript30:](#javascript30)
-        - [Vanilla JS:](#vanilla-js)
-        - [Tópico Stack Overflow:](#tópico-stack-overflow)
-        - [JavaScript módulo:](#javascript-módulo)
-        - [Trabalhando com módulos no JavaScript:](#trabalhando-com-módulos-no-javascript)
-        - [Um background em módulos:](#um-background-em-módulos)
-        - [Como escrever um bom README para seu projeto GitHub?](#como-escrever-um-bom-readme-para-seu-projeto-github)
   - [Contato](#contato)
 
 ## Introdução
