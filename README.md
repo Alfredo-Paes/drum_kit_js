@@ -1,5 +1,5 @@
 # Drum Kit JS
-> Um simples projeto feito em JavaScript que, simula uma Bateria.
+Uma aplicação que simula o tocar de uma Bateria.
 
 ## Indíce
 - [Drum Kit JS](#drum-kit-js)
