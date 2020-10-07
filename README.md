@@ -48,25 +48,18 @@ Como foi dito anteriomente, o projeto "Drum Kit JS" foi originado do curso "Java
 De forma independente, obteve -se a ideia de estruturar o projeto em conceito de módulos, logo, cada parte do código é responsável em fazer a sua funcionalidade. Portanto, caso haja a necessidade de fazer alterações, acrescentar alguma funcionalidade nova ou qualquer outra coisa, saberá precisamente aonde fazer e acompanhar. Além do mais, não é somente em frameworks que é possível aplicar o conceito de estruturação modular, como vemos em React, Vue, Angular e outros, mas também, em JavaScript puro, porém, não se vê com frequência.
 
 ## Referências
-##### JavaScript30: 
 https://github.com/wesbos/JavaScript30
 
-##### Vanilla JS: 
 http://vanilla-js.com/
-
-##### Tópico Stack Overflow: 
+ 
 https://pt.stackoverflow.com/questions/46983/o-que-%C3%A9-o-vanilla-js
 
-##### JavaScript módulo:
 https://v8.dev/features/modules#mjs
 
-##### Trabalhando com módulos no JavaScript:
 https://www.devmedia.com.br/trabalhando-com-modulos-no-javascript/40091
 
-##### Um background em módulos:
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/M%C3%B3dulos
 
-##### Como escrever um bom README para seu projeto GitHub?
 https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
 
 ## Contato
